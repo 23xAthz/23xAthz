@@ -21,8 +21,8 @@ I build security tools and hands-on learning projects. At the **Manipal Informat
 ╔════════════════════════════════════════════════╗
 ║  23xATHZ  //  SYSTEM ONLINE                    ║
 ╠════════════════════════════════════════════════╣
-║  SOC LAB       [ BUILDING  ]                   ║
-║  SQR           [ UPDATING  ]                   ║
+║  SOC LAB       [ BUILDING  ]  ▰▰▱▱          ║
+║  SQR           [ UPDATING  ]  ▰▰▰▱          ║
 ║  INTERNSHIPS   [ OPEN      ]  ●                ║
 ╚════════════════════════════════════════════════╝
 ```
